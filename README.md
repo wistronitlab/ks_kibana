@@ -1,0 +1,2 @@
+# ks_kibana
+Kickstart Kibana是用來記錄及儲存kibana這個軟件的5W1H的相關資訊、教學文件及範例源碼
